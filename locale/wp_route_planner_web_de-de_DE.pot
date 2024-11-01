@@ -1,0 +1,2 @@
+msgid "Welcome to our Plugin"
+msgstr "Willkommen zu unserem Plugin"

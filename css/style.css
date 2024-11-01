@@ -1,0 +1,36 @@
+div.route_planner
+{
+}
+
+div.route_planner span
+{
+  font-weight:bold;
+}
+
+div.route_planner span#toplz_value
+{
+  padding-right: 3px;
+}
+
+div.route_planner input
+{
+  margin: 5px 5px 0 0px;
+}
+
+div.route_planner h3
+{
+  margin-bottom: 5px;
+  margin-top: 5px;
+  font-weight:bold;
+}
+
+div.route_planner h3#fromtitle
+{
+  
+}
+
+div.route_planner h3#totitle
+{
+
+}
+
